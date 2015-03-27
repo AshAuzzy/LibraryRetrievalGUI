@@ -1,0 +1,18 @@
+A:0:Roald Dahl:NA:Oxford:United Kingdom:OX1 1LT:44-245-671-1220
+B:0:Charlie and the Chocolate Factory:Children's Fiction:4.99:0
+B:1:Matilda:Children's Fiction:5.99:0
+B:2:James and the Giant Peach:Children's Fiction:3.99:0
+A:1:Suzanne Collins:Not Available:Sandy Hook:Connecticut:06482:203-742-5877
+B:3:The Hunger Games:Science Fiction:5.00:1
+B:4:Catching Fire:Science Fiction:5.00:1
+B:5:Mockingjay:Science Fiction:5.00:1
+A:2:J.K. Rowling:Not Available:Edinburgh:United Kingdom:EH1 1YZ:44-141-225-3300
+B:6:Harry Potter and the Sorcerer's Stone:Young Adult Fiction:13.43:2
+B:7:Harry Potter and the Chamber of Secrets:Young Adult Fiction:13.53:2
+B:8:Harry Potter and the Prisoner of Azkaban:Young Adult Fiction:13.63:2
+B:9:Harry Potter and the Goblet of Fire:Young Adult Fiction:16.24:2
+B:10:Harry Potter and the Order of the Phoenix:Young Adult Fiction:16.49:2
+B:11:Harry Potter and the Half-Blood Prince:Young Adult Fiction:16.47:2
+B:12:Harry Potter and the Deathly Hallows:Young Adult Fiction:21.18:2
+A:3:F. Scott Fitzgerald:NA:Hollywood:California:91601:310-092-1090
+B:13:The Great Gatsby:Fiction:9:3
